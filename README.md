@@ -949,6 +949,13 @@ Yuming Li, Chenguang Ma</details>
 
 #### 🎥 Motion Customization/Motion Mask/Motion Video
 
+
+
++ **EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models** (25 Mar 2025)  
+   <details><summary>Yufei Cai, Yuxiang Wei, Shiguang Shan,et al.</summary>  
+         Yufei Cai, Hu Han, Yuxiang Wei, Shiguang Shan, Xilin Chen</details>  
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19369v2) 
+   
 + **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer** (15 Apr 2025) <details><summary>Xiang Wang, Shiwei Zhang, Longxiang Tang, et al.</summary>Xiang Wang, Shiwei Zhang, Longxiang Tang, Yingya Zhang, Changxin Gao, Yuehuan Wang, Nong Sang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.11289)
 
