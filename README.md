@@ -13,8 +13,6 @@
 # 🤗 Introduction
 
 
-
-
 # 📋 Contents
 
   * [🌐 Structure Control](#-structure-control)
@@ -47,13 +45,7 @@
 ### 🕺 Pose-Guided
 <a id="-pose-guided"></a>
   
-+ **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios** (6 May 2025)
-   <details><summary> [SIGGRAPH 2025] Shiyi Zhang*, Junhao Zhuang*, et al.</summary>  
-        Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730)
-   [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct)
-   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
   
 + **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** (3 Feb 2025)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
   Gaojie Lin, Jianwen Jiang, Jiaqi Yang, Zerong Zheng, Chao Liang</details>
@@ -290,7 +282,7 @@
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.07749)
 
-+ **DisCo: Disentangled Control for Realistic Human Dance Generation** (30 Jun 2023)
++ **DisCo: Disentangled Control for Realistic Human Dance Generation**! (30 Jun 2023)
    <details><summary>[CVPR2024] Tan Wang, Linjie Li, et al.</summary>  
         Tan Wang, Linjie Li, Kevin Lin, Yuanhao Zhai, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang </details>  
 
@@ -1606,6 +1598,14 @@ Feng Wang, Zhaoxiang Zhang</details>
 ### 🎬 Motion-Guided
 <a id="-motion-guided"></a>
 
++ **FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios** (6 May 2025)
+   <details><summary> [SIGGRAPH 2025] Shiyi Zhang*, Junhao Zhuang*, et al.</summary>  
+        Shiyi Zhang*, Junhao Zhuang*, Zhaoyang Zhang, Ying Shan, Yansong Tang </details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730)
+   [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
+  
 + **<font color=#318917>Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning</font>** (5 Jun 2025)
    <details><summary>Yue Ma, Yulong Liu, Qiyuan Zhu, et al.</summary>  
          Yue Ma, Yulong Liu, Qiyuan Zhu, Ayden Yang, Kunyu Feng, Xinhua Zhang, Zhifeng Li, Sirui Han, Chenyang Qi, Qifeng Chen</details>  
