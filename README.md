@@ -949,31 +949,25 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
    <details><summary>[ECCV 2024] Muyao Niu, Xiaodong Cun, et al.</summary>  
         Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)  
-   [![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)  
-   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://myniuuu.github.io/MOFA_Video/)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)  [![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://myniuuu.github.io/MOFA_Video/)
 
 + **Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling** (29 Jan 2024)  
    <details><summary>[SIGGRAPH 2024] Xiaoyu Shi, Zhaoyang Huang, et al.</summary>  
         Xiaoyu Shi, Zhaoyang Huang, Fu-Yun Wang, Weikang Bian, Dasong Li, Yi Zhang, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15977)  
-   [![Code](https://img.shields.io/github/stars/G-U-N/Motion-I2V.svg?style=social&label=Star)](https://github.com/G-U-N/Motion-I2V)  
-   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xiaoyushi97.github.io/Motion-I2V/)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15977)  [![Code](https://img.shields.io/github/stars/G-U-N/Motion-I2V.svg?style=social&label=Star)](https://github.com/G-U-N/Motion-I2V)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xiaoyushi97.github.io/Motion-I2V/)
 
 + **Motion-Conditioned Diffusion Model for Controllable Video Synthesis** (27 Apr 2023)  
    <details><summary>Tsai-Shien Chen, Chieh Hubert Lin, et al.</summary>  
         Tsai-Shien Chen, Chieh Hubert Lin, Hung-Yu Tseng, Tsung-Yi Lin, Ming-Hsuan Yang </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404)  
-   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsaishien-chen.github.io/MCDiff/)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsaishien-chen.github.io/MCDiff/)
 
 + **I2VControl: Disentangled and Unified Video Motion Synthesis Control** (26 Nov 2024)  
    <details><summary>Wanquan Feng, Tianhao Qi, et al.</summary>  
         Wanquan Feng, Tianhao Qi, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He </details>  
 
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17765)  
-   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wanquanf.github.io/I2VControl)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17765)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wanquanf.github.io/I2VControl)
 
 
 ### 🛤️ Trajectory-Guided
