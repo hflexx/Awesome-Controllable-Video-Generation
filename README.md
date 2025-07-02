@@ -668,8 +668,7 @@ Yang Wu, Zhibin Liu, Hefeng Wu, Liang Lin</details>
   <details><summary>Jiangchuan Wei, Shiyue Yan, Wenfeng Lin, et al.</summary>  
          Jiangchuan Wei, Shiyue Yan, Wenfeng Lin, Boyuan Liu, Renjie Chen, Mingyu Guo</details>  
          
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13452)  
-  [![Code](https://img.shields.io/github/stars/bytedance/EchoVideo.svg?style=social&label=Star)](https://github.com/bytedance/EchoVideo)
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13452)    [![Code](https://img.shields.io/github/stars/bytedance/EchoVideo.svg?style=social&label=Star)](https://github.com/bytedance/EchoVideo)
 
 * **Multi-subject Open-set Personalization in Video Generation** (10 Jan 2025)
 
