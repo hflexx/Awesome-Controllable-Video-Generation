@@ -1,5 +1,4 @@
 
-![hhh](https://github-colored-text-fn3z.vercel.app/api/index?text=DisCo&color=008000&width=50&fontSize=17&height=17)
 
 <div align="center">
 <!-- <h2><font color="red"> Awesome-Controllable-Video-Generation </h2> -->
@@ -47,7 +46,8 @@
   
 
   
-+ **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** (3 Feb 2025)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
++ **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=25&fontSize=17&height=17)
+ (3 Feb 2025)<details><summary>Gaojie Lin, Jianwen Jiang, Jiaqi Yang, et al.</summary>
   Gaojie Lin, Jianwen Jiang, Jiaqi Yang, Zerong Zheng, Chao Liang</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01061)
   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://omnihuman-lab.github.io)
