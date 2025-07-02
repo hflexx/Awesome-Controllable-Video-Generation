@@ -1286,7 +1286,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 - **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** (14 Oct 2024)  
   <details><summary>Zhang Wan, Sheng Tang, Jiawei Wei</summary></details>  
   
-  [!Paper](https://img.shields.io/badge/ACM-b31b1b.svg)](https://arxiv.org/abs/2410.10751)    [![Code](https://img.shields.io/github/stars/yzhang2016/video-generation-survey.svg?style=social&label=Star)](https://github.com/yzhang2016/video-generation-survey/blob/main/video-generation.md)
+  [![Paper](https://img.shields.io/badge/ACM-b31b1b.svg)](https://arxiv.org/abs/2410.10751)    [![Code](https://img.shields.io/github/stars/yzhang2016/video-generation-survey.svg?style=social&label=Star)](https://github.com/yzhang2016/video-generation-survey/blob/main/video-generation.md)
 
 - **MotionCtrl: A Unified and Flexible Motion Controller for Video Generation** (16 Jul 2024)  
   <details><summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, et al.</summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan</details>  
@@ -1394,8 +1394,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 + **I2VControl: Disentangled and Unified Video Motion Synthesis Control** (30 Nov 2024)  
   <details><summary>Zhiyuan Zhang, Dongdong Chen, Jing Liao</summary></details>  
   
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17765)  
-  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wanquanf.github.io/I2VControl)
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17765)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wanquanf.github.io/I2VControl)
 
 + **Trajectory Attention: Enhancing Video Generation with Fine-Grained Motion Control** (28 Nov 2024)  
   <details><summary>Zeqi Xiao, Wenqi Ouyang, Yifan Zhou, et al.</summary> Shuai Yang, Lei Yang, Jianlou Si, Xingang Pan</details>  
