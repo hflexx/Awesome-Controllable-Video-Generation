@@ -378,7 +378,6 @@
         Hongxiang Zhao, Xingchen Liu, Mutian Xu, Yiming Hao, Weikai Chen, Xiaoguang Han </details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11423)
-   [![citation](https://img.shields.io/badge/citation-3-blue.svg?paper=f8ce125cb422e8bc8459b25f3ce64b2cea1f0718)](https://www.semanticscholar.org/paper/f8ce125cb422e8bc8459b25f3ce64b2cea1f0718)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://taste-rob.github.io/)
 
 + **Identity-Preserving Text-to-Video Generation by Frequency Decomposition** (26 Nov 2024)
@@ -405,7 +404,6 @@ Chenguang Ma</details>
 + **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions** (12 Jul 2024)<details><summary>[AAAI 2025] Zhiyuan Chen, Jiajiong Cao, Zhiquan Chen, et al.</summary>
 Yuming Li, Chenguang Ma</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.08136)
-[![citation](https://img.shields.io/badge/citation-34-blue.svg?paper=d92c15b21777bd81b95622506e406e24a4de4bdb)](https://www.semanticscholar.org/paper/d92c15b21777bd81b95622506e406e24a4de4bdb)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://badtobest.github.io/echomimic.html)
 [![Code](https://img.shields.io/github/stars/antgroup/echomimic.svg?style=social&label=Star)](https://github.com/antgroup/echomimic)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/BadToBest/EchoMimic)
@@ -450,7 +448,8 @@ Yuming Li, Chenguang Ma</details>
    [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Star)](https://github.com/IGLICT/SketchVideo)
   
 + **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)
-  <details><summary>Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>Feng Wang, Zhaoxiang Zhang</details>
+  <details><summary>Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
+   Feng Wang, Zhaoxiang Zhang</details>
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08295)
   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layeranimate.github.io/)
@@ -458,7 +457,8 @@ Yuming Li, Chenguang Ma</details>
   [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/IamCreateAI/LayerAnimate)
 
 + **CameraCtrl: Enabling Camera Control for Text-to-Video Generation** (13 Mar 2025)
-  <details><summary>[ICLR 2025] Hao He, Yinghao Xu, Yuwei Guo, et al.</summary>Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details>
+  <details><summary>[ICLR 2025] Hao He, Yinghao Xu, Yuwei Guo, et al.</summary>
+   Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details>
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02101)
   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hehao13.github.io/projects-CameraCtrl/)
