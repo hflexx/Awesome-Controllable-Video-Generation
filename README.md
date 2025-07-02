@@ -1,4 +1,4 @@
-# 
+
 
 
 <div align="center">
@@ -4423,7 +4423,6 @@ C V Jawahar</details>
   Ligong Han, Jian Ren, Hsin-Ying Lee, Francesco Barbieri, Kyle Olszewski, Shervin Minaee, Dimitris Metaxas, Sergey Tulyakov</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.02573)
   [![Code](https://img.shields.io/github/stars/snap-research/MMVID.svg?style=social&label=Star)](https://github.com/snap-research/MMVID)
-## ❓ To be sorted
 
 ## 🌐 Unified controllable generation
 + **Aether: Geometric-Aware Unified World Modeling** (18 Mar 2025)
