@@ -552,6 +552,20 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 
 ### 🧑‍🤝‍🧑 Subject-Guided
 <a id="-subject-guided"></a>
++ **Concat-ID: Towards Universal Identity-Preserving Video Synthesis**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (19 Apr 2025)
+   <details><summary>Yong Zhong, Zhuoyi Yang, Jiayan Teng, et al.</summary>  
+         Yong Zhong, Zhuoyi Yang, Jiayan Teng, Xiaotao Gu, Chongxuan Li</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14151)
+   [![Code](https://img.shields.io/github/stars/ML-GSAI/Concat-ID.svg?style=social&label=Star)](https://github.com/ML-GSAI/Concat-ID)
+
++ **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (27 Mar 2025)
+   <details><summary>Chi-Pin Huang, Yen-Siang Wu, Hung-Kai Chung, et al.</summary>  
+         Chi-Pin Huang, Yen-Siang Wu, Hung-Kai Chung, Kai-Po Chang, Fu-En Yang, Yu-Chiang Frank Wang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.21781)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://jasper0314-huang.github.io/videomage-customization/)
+  
 * **DreamRelation: Relation-Centric Video Customization** (10 Mar 2025)
 
   <details><summary>Yujie Wei, Shiwei Zhang, Hangjie Yuan, et al.</summary>  
@@ -1418,7 +1432,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
    [![Code](https://img.shields.io/github/stars/HiDream-ai/MotionPro.svg?style=social&label=Star)](https://github.com/HiDream-ai/MotionPro)
    [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://zhw-zhang.github.io/MotionPro-page/)
 
-+ **DualReal: Joint Training for Lossless Identity-Motion Fusion in Video Customization** (4 May 2025)
++ **DualReal: Joint Training for Lossless Identity-Motion Fusion in Video Customization**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (4 May 2025)
    <details><summary>Wenchuan Wang, Mengqi Huang, Yijing Tu, et al.</summary>  
          Wenchuan Wang, Mengqi Huang, Yijing Tu, Zhendong Mao</details>  
 
