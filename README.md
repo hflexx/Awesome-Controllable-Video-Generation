@@ -123,99 +123,157 @@
 ### ✏️ Sketch-Guided
 <a id="-sketch-guided"></a>
 
-+ **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** (8 Jun 2025)
+
++ **Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Jun 2025)
    <details><summary>Sangwon Jang, Taekyung Ki, Jaehyeong Jo, et al.</summary>  
-         Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details>  
+         Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details> 
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07177)
-
 + **OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding** (15 Apr 2025)<details><summary>Dianbing Xi, Jiepeng Wang, Yuanzhi Liang, et al.</summary>
 Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10825)
 [![Code](https://img.shields.io/github/stars/Tele-AI/OmniVDiff.svg?style=social&label=Star)](https://github.com/Tele-AI/OmniVDiff.git)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tele-ai.github.io/OmniVDiff/)
-  
-+ **SketchVideo: Sketch-based Video Generation and Editing** (30 Mar 2025)
-   <details><summary>Feng-Lin Liu, Hongbo Fu, Xintao Wang, et al.</summary>  
-         Feng-Lin Liu, Hongbo Fu, Xintao Wang, Weicai Ye, Pengfei Wan, Di Zhang, Lin Gao</details>  
-
-   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.23284)
-   [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Star)](https://github.com/IGLICT/SketchVideo)
-  
-+ **LayerAnimate: Layer-level Control for Animation** (22 Mar 2025)
-  <details><summary>Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary>
-   Feng Wang, Zhaoxiang Zhang</details>
-  
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08295)
-  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layeranimate.github.io/)
-  [![Code](https://img.shields.io/github/stars/IamCreateAI/LayerAnimate.svg?style=social&label=Star)](https://github.com/IamCreateAI/LayerAnimate)
-  [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/IamCreateAI/LayerAnimate)
-
-+ **CameraCtrl: Enabling Camera Control for Text-to-Video Generation** (13 Mar 2025)
-  <details><summary>[ICLR 2025] Hao He, Yinghao Xu, Yuwei Guo, et al.</summary>
-   Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details>
-  
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02101)
-  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hehao13.github.io/projects-CameraCtrl/)
-  [![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
-  [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/hehao13/CameraCtrl-svd)
 
 
 
-+ **VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control** (17 Feb 2025)<details><summary>Lifan Jiang, Shuang Chen, Boxi Wu, et al.</summary>
-Xiaotong Guan, Jiahui Zhang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01101)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://csfufu.github.io/vid_sketch/)
-[![Code](https://img.shields.io/github/stars/CSfufu/VidSketch.svg?style=social&label=Star)](https://github.com/CSfufu/VidSketch)
 
-+ **AniDoc: Animation Creation Made Easier** (30 Jan 2025)<details><summary>[CVPR 2025] Yihao Meng, Hao Ouyang, Hanlin Wang, et al.</summary>
-Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14173)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yihao-meng.github.io/AniDoc_demo/)
-[![Code](https://img.shields.io/github/stars/ant-research/AniDoc.svg?style=social&label=Star)](https://github.com/ant-research/AniDoc)
++ **SketchVideo: Sketch-based Video Generation and Editing** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 Mar 2025)
+   <details><summary>Feng-Lin Liu, Hongbo Fu, Xintao Wang, et al.</summary> Feng-Lin Liu, Hongbo Fu, Xintao Wang, Weicai Ye, Pengfei Wan, Di Zhang, Lin Gao</details> 
 
-+ **Open-Sora Plan: Open-Source Large Video Generation Model** (28 Nov 2024)<details><summary>Bin Lin, Yunyang Ge, Xinhua Cheng, et al.</summary>
-Zongjian Li, Bin Zhu, Shaodong Wang, Xianyi He, Yang Ye, Shenghai Yuan, Liuhan Chen, Tanghui Jia, Junwu Zhang, Zhenyu Tang, Yatian Pang, Bin She, Cen Yan, Zhiheng Hu, Xiaoyi Dong, Lin Chen, Zhang Pan, Xing Zhou, Shaoling Dong, Yonghong Tian, Li Yuan</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00131)
-[![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.23284) [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Star)](https://github.com/IGLICT/SketchVideo)
 
-+ **ToonCrafter: Generative Cartoon Interpolation** (19 Nov 2024)<details><summary>[ACM TOG] Jinbo Xing, Hanyuan Liu, Menghan Xia, et al.</summary>
-Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3687761)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/ToonCrafter/)
-[![Code](https://img.shields.io/github/stars/Doubiiu/ToonCrafter.svg?style=social&label=Star)](https://github.com/Doubiiu/ToonCrafter)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Doubiiu/tooncrafter)
++ **LayerAnimate: Layer-level Control for Animation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (22 Mar 2025)
+   <details><summary>Yuxue Yang, Lue Fan, Zuzeng Lin, et al.</summary> Feng Wang, Zhaoxiang Zhang</details> 
 
-+ **MagicStick: Controllable Video Editing via Control Handle Transformations** (18 Nov 2024)<details><summary>[WACV 2025] Yue Ma, Xiaodong Cun, Sen Liang, et al.</summary>
-Jinbo Xing, Yingqing He, Chenyang Qi, Siran Chen, Qifeng Chen</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03047)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://magic-stick-edit.github.io/)
-[![Code](https://img.shields.io/github/stars/mayuelala/FollowYourHandle.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourHandle)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.08295) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://layeranimate.github.io/) [![Code](https://img.shields.io/github/stars/IamCreateAI/LayerAnimate.svg?style=social&label=Star)](https://github.com/IamCreateAI/LayerAnimate) [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/IamCreateAI/LayerAnimate)
 
 
-+ **MotionClone: Training-Free Motion Cloning for Controllable Video Generation** (22 Oct 2024)<details><summary>Pengyang Ling, Jiazi Bu, Pan Zhang, et al.</summary>
-Xiaoyi Dong, Yuhang Zang, Tong Wu, Huaian Chen, Jiaqi Wang, Yi Jin</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05338)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://bujiazi.github.io/motionclone.github.io/)
-[![Code](https://img.shields.io/github/stars/LPengYang/MotionClone.svg?style=social&label=Star)](https://github.com/LPengYang/MotionClone)
++ **CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (13 Mar 2025)
+   <details><summary>Hao He, Ceyuan Yang, Shanchuan Lin, et al.</summary> Yinghao Xu, Meng Wei, Liangke Gui, Qi Zhao, Gordon Wetzstein, Lu Jiang, Hongsheng Li</details> 
 
-+ **LVCD: Reference-based Lineart Video Colorization with Diffusion Models** (19 Sep 2024)<details><summary>[ACM TOG and SIGGRAPH Asia 2024] Zhitong Huang, Mohan Zhang, Jing Liao</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12960)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://luckyhzt.github.io/lvcd)
-[![Code](https://img.shields.io/github/stars/luckyhzt/LVCD.svg?style=social&label=Star)](https://github.com/luckyhzt/LVCD)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10592) [![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hehao13.github.io/Projects-CameraCtrl-II/)
 
-+ **EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation** (16 Sep 2024)<details><summary>Cong Wang, Jiaxi Gu, Panwen Hu, et al.</summary>
-Haoyu Zhao, Yuanfan Guo, Jianhua Han, Hang Xu, Xiaodan Liang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13005)
++ **CameraCtrl: Enabling Camera Control for Text-to-Video Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (13 Mar 2025)
+   <details><summary>[ICLR 2025] Hao He, Yinghao Xu, Yuwei Guo, et al.</summary> Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.02101) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hehao13.github.io/projects-CameraCtrl/) [![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl) [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/hehao13/CameraCtrl-svd)
+
+
++ **VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (17 Feb 2025)
+   <details><summary>Lifan Jiang, Shuang Chen, Boxi Wu, et al.</summary> Xiaotong Guan, Jiahui Zhang</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.01101) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://csfufu.github.io/vid_sketch/) [![Code](https://img.shields.io/github/stars/CSfufu/VidSketch.svg?style=social&label=Star)](https://github.com/CSfufu/VidSketch)
 
 
 
-+ **Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model** (24 May 2024)<details><summary>[ICLR 2025] Han Lin, Jaemin Cho, Abhay Zala, et al.</summary>
-Mohit Bansal</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09967)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ctrl-adapter.github.io/)
-[![Code](https://img.shields.io/github/stars/HL-hanlin/Ctrl-Adapter.svg?style=social&label=Star)](https://github.com/HL-hanlin/Ctrl-Adapter)
++ **AniDoc: Animation Creation Made Easier** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 Jan 2025)
+   <details><summary>[CVPR 2025] Yihao Meng, Hao Ouyang, Hanlin Wang, et al.</summary> Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu</details> 
 
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14173) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yihao-meng.github.io/AniDoc_demo/) [![Code](https://img.shields.io/github/stars/ant-research/AniDoc.svg?style=social&label=Star)](https://github.com/ant-research/AniDoc)
+
++ **Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Dec 2024)
+   <details><summary>Zhenghong Zhou, Jie An, Jiebo Luo, et al.</summary></details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06029) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://latent-reframe.github.io/)
+
++ **CamI2V: Camera-Controlled Image-to-Video Diffusion Model** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (4 Dec 2024)
+   <details><summary>Guangcong Zheng, Teng Li, Rui Jiang, et al.</summary> Yehao Lu, Tao Wu, Xi Li</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15957) [![Code](https://img.shields.io/github/stars/JinWonjoon/FloVD.svg?style=social&label=Star)](https://github.com/JinWonjoon/FloVD) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zgctroy.github.io/CamI2V/?ref=aiartweekly)
+
++ **Motion Prompting: Controlling Video Generation with Motion Trajectories(frame+track+text)** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Dec 2024)
+   <details><summary>Daniel Geng, Charles Herrmann, Junhwa Hur, et al.</summary> Forrester Cole, Serena Zhang, Tobias Pfaff, Tatiana Lopez-Guevara, Carl Doersch, Yusuf Aytar, Michael Rubinstein, Chen Sun, Oliver Wang, Andrew Owens, Deqing Sun</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2412.02700v1) [![Code](https://img.shields.io/github/stars/HyelinNAM/MotionPrompt.svg?style=social&label=Star)](https://github.com/HyelinNAM/MotionPrompt) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://motion-prompting.github.io/)
+
++ **MOTIONFLOW: Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (Dec 2024)
+   <details><summary>Author list not fully provided</summary></details> 
+
+   [![Paper](https://img.shields.io/badge/OpenReview-b31b1b.svg)](https://openreview.net/forum?id=OBTmkKBmQW) [![Code](https://img.shields.io/github/stars/yzhang2016/video-generation-survey.svg?style=social&label=Star)](https://github.com/yzhang2016/video-generation-survey/blob/main/video-generation.md) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](http://motion-prompting.github.io/)
+
++ **I2VControl: Disentangled and Unified Video Motion Synthesis Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 Nov 2024)
+   <details><summary>Zhiyuan Zhang, Dongdong Chen, Jing Liao</summary></details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17765) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wanquanf.github.io/I2VControl)
+
++ **Trajectory Attention: Enhancing Video Generation with Fine-Grained Motion Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (28 Nov 2024)
+   <details><summary>Zeqi Xiao, Wenqi Ouyang, Yifan Zhou, et al.</summary> Shuai Yang, Lei Yang, Jianlou Si, Xingang Pan</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.19324) [![Code](https://img.shields.io/github/stars/JinWonjoon/FloVD.svg?style=social&label=Star)](https://github.com/JinWonjoon/FloVD) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://deep-diver.github.io/ai-paper-reviewer/paper-reviews/2411.19324/)
+
++ **Open-Sora Plan: Open-Source Large Video Generation Model** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (28 Nov 2024)
+   <details><summary>Bin Lin, Yunyang Ge, Xinhua Cheng, et al.</summary> Zongjian Li, Bin Zhu, Shaodong Wang, Xianyi He, Yang Ye, Shenghai Yuan, Liuhan Chen, Tanghui Jia, Junwu Zhang, Zhenyu Tang, Yatian Pang, Bin She, Cen Yan, Zhiheng Hu, Xiaoyi Dong, Lin Chen, Zhang Pan, Xing Zhou, Shaoling Dong, Yonghong Tian, Li Yuan</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.00131) [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
++ **ToonCrafter: Generative Cartoon Interpolation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (19 Nov 2024)
+   <details><summary>[ACM TOG] Jinbo Xing, Hanyuan Liu, Menghan Xia, et al.</summary> Yong Zhang, Xintao Wang, Ying Shan, Tien-Tsin Wong</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3687761) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://doubiiu.github.io/projects/ToonCrafter/) [![Code](https://img.shields.io/github/stars/Doubiiu/ToonCrafter.svg?style=social&label=Star)](https://github.com/Doubiiu/ToonCrafter) [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/Doubiiu/tooncrafter)
+
++ **MagicStick: Controllable Video Editing via Control Handle Transformations** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (18 Nov 2024)
+   <details><summary>[WACV 2025] Yue Ma, Xiaodong Cun, Sen Liang, et al.</summary> Jinbo Xing, Yingqing He, Chenyang Qi, Siran Chen, Qifeng Chen</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03047) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://magic-stick-edit.github.io/) 
+
+
+ + **Video Diffusion Models are Training-free Motion Interpreter and Controller** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (12 Nov 2024)
+   <details><summary>Zeqi Xiao, Yifan Zhou, Shuai Yang, Xingang Pan, et al.</summary></details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14864) [![Code](https://img.shields.io/github/stars/xizaoqu/MOFT.svg?style=social&label=Star)](https://github.com/xizaoqu/MOFT) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://xizaoqu.github.io/moft/)
+
++ **DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (7 Nov 2024)
+   <details><summary>Wenqiang Sun, Shuo Chen, Fangfu Liu, et al.</summary> Zilong Chen, Yueqi Duan, Jun Zhang, Yikai Wang</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04928) [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Star)](https://github.com/wenqsun/DimensionX) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chenshuo20.github.io/DimensionX/)
+
++ **MotionClone: Training-Free Motion Cloning for Controllable Video Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (22 Oct 2024)
+   <details><summary>Pengyang Ling, Jiazi Bu, Pan Zhang, et al.</summary> Xiaoyi Dong, Yuhang Zang, Tong Wu, Huaian Chen, Jiaqi Wang, Yi Jin</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05338) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://bujiazi.github.io/motionclone.github.io/) [![Code](https://img.shields.io/github/stars/LPengYang/MotionClone.svg?style=social&label=Star)](https://github.com/LPengYang/MotionClone)
+
++ **Boosting Camera Motion Control for Video Diffusion Transformers** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (14 Oct 2024)
+   <details><summary>Soon Yau Cheong, Duygu Ceylan, Armin Mustafa, et al.</summary> Andrew Gilbert, Chun-Hao Paul Huang</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10802) [![Code](https://img.shields.io/github/stars/soon-yau/CameraMotionGuidance.svg?style=social&label=Star)](https://github.com/soon-yau/CameraMotionGuidance) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://soon-yau.github.io/CameraMotionGuidance/)
+
++ **Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (14 Oct 2024)
+   <details><summary>Dejia Xu, Yifan Jiang, Chen Huang, et al.</summary> Liangchen Song, Thorsten Gernoth, Liangliang Cao, Zhangyang Wang, Hao Tang</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10774) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ir1d.github.io/Cavia/)
+
++ **LVCD: Reference-based Lineart Video Colorization with Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (19 Sep 2024)
+   <details><summary> Zhitong Huang, Mohan Zhang, Jing Liao</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.12960) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://luckyhzt.github.io/lvcd) [![Code](https://img.shields.io/github/stars/luckyhzt/LVCD.svg?style=social&label=Star)](https://github.com/luckyhzt/LVCD)
+
++ **EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (16 Sep 2024)
+   <details><summary>Cong Wang, Jiaxi Gu, Panwen Hu, et al.</summary> Haoyu Zhao, Yuanfan Guo, Jianhua Han, Hang Xu, Xiaodan Liang</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13005)
+
++ **ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Sep 2024)
+   <details><summary>Wangbo Yu, Jinbo Xing, Li Yuan, et al.</summary> Wenbo Hu, Xiaoyu Li, Zhipeng Huang, Xiangjun Gao, Tien-Tsin Wong, Ying Shan, Yonghong Tian</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02048) [![Code](https://img.shields.io/github/stars/Drexubery/ViewCrafter.svg?style=social&label=Star)](https://github.com/Drexubery/ViewCrafter) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://drexubery.github.io/ViewCrafter/)
+
++ **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (17 Jul 2024)
+   <details><summary>Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, et al.</summary> Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) [![Code](https://img.shields.io/github/stars/Yangzhangcst/Transformer-in-Computer-Vision.svg?style=social&label=Star)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision/blob/main/main/diffusion.md) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/vd3d/gallery.html)
+
++ **MotionCtrl: A Unified and Flexible Motion Controller for Video Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (16 Jul 2024)
+   <details><summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, et al.</summary> Zhouxia Wang, Ziyang Yuan, Xintao Wang, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03641) [![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wzhouxiff.github.io/projects/MotionCtrl/) [![Code](https://img.shields.io/github/stars/deepbrainai-research/float.svg?style=social&label=Star)](https://github.com/TencentARC/MotionCtrl)
+
+
+
++ **Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (24 May 2024)
+   <details><summary>[ICLR 2025] Han Lin, Jaemin Cho, Abhay Zala, et al.</summary> Mohit Bansal</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09967) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ctrl-adapter.github.io/) [![Code](https://img.shields.io/github/stars/HL-hanlin/Ctrl-Adapter.svg?style=social&label=Star)](https://github.com/HL-hanlin/Ctrl-Adapter)
 
 
 + **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos** (25 Dec 2023)<details><summary>[CVPR 2024] Xiang Wang, Shiwei Zhang, Hangjie Yuan, et al.</summary>
@@ -224,20 +282,16 @@ Zhiwu Qing, Biao Gong, Yingya Zhang, Yujun Shen, Changxin Gao, Nong Sang</detail
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tf-t2v.github.io/)
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen)
 
++ **VideoLCM: Video Latent Consistency Model** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (14 Dec 2023)
+   <details><summary>Xiang Wang, Shiwei Zhang, Han Zhang, et al.</summary> Yu Liu, Yingya Zhang, Changxin Gao, Nong Sang</details> 
 
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09109)
 
++ **SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (28 Nov 2023)
+   <details><summary>Yuwei Guo, Ceyuan Yang, Anyi Rao, et al.</summary> Maneesh Agrawala, Dahua Lin, Bo Dai</details> 
 
-+ **VideoLCM: Video Latent Consistency Model** (14 Dec 2023)<details><summary>Xiang Wang, Shiwei Zhang, Han Zhang,  et al.</summary>
-Yu Liu, Yingya Zhang, Changxin Gao, Nong Sang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.09109)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16933) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guoyww.github.io/projects/SparseCtrl/) [![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl.svg?style=social&label=Star)](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
 
-
-
-+ **SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models** (28 Nov 2023)<details><summary>Yuwei Guo, Ceyuan Yang, Anyi Rao, et al.</summary>
-Maneesh Agrawala, Dahua Lin, Bo Dai</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16933)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://guoyww.github.io/projects/SparseCtrl/)
-[![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl.svg?style=social&label=Star)](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
 
 + **Make Pixels Dance: High-Dynamic Video Generation** (18 Nov 2023)<details><summary>[CVPR 2024] Yan Zeng, Guoqiang Wei, Jiani Zheng, et al.</summary>
 Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
@@ -245,17 +299,18 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://arxiv.org/abs/2311.10982)
 [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://makepixelsdance.github.io/demo.html)
 
-+ **TaleCrafter: Interactive Story Visualization with Multiple Characters** (30 May 2023)<details><summary>[SIGGRAPH Asia 2023] Yuan Gong, Youxin Pang, Xiaodong Cun, et al.</summary>
-Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Ying Shan, Yujiu Yang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18247)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/TaleCrafter/)
-[![Code](https://img.shields.io/github/stars/AILab-CVC/TaleCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/TaleCrafter)
++ **TaleCrafter: Interactive Story Visualization with Multiple Characters** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 May 2023)
+   <details><summary>[SIGGRAPH Asia 2023] Yuan Gong, Youxin Pang, Xiaodong Cun, et al.</summary> Menghan Xia, Yingqing He, Haoxin Chen, Longyue Wang, Yong Zhang, Xintao Wang, Ying Shan, Yujiu Yang</details> 
 
-+ **Sketching the Future(STF): Applying Conditional Control Techniques to Text-to-Video Models** (10 May 2023)<details><summary>Rohan Dhesikan, Vignesh Rajmohan</details></details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05845)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sketchingthefuture.github.io/)
-[![Code](https://img.shields.io/github/stars/rohandkn/skribble2vid.svg?style=social&label=Star)](https://github.com/rohandkn/skribble2vid)
-[![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://docs.google.com/forms/d/e/1FAIpQLSd9EGien53IkxOlbPkUx9n9ANu2N_FG6ySJaZASr_A1VCdxUQ/viewform?usp=sf_link)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18247) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ailab-cvc.github.io/TaleCrafter/) [![Code](https://img.shields.io/github/stars/AILab-CVC/TaleCrafter.svg?style=social&label=Star)](https://github.com/AILab-CVC/TaleCrafter)
+
++ **Sketching the Future(STF): Applying Conditional Control Techniques to Text-to-Video Models** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (10 May 2023)
+   <details><summary>Rohan Dhesikan, Vignesh Rajmohan</summary></details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05845) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sketchingthefuture.github.io/) [![Code](https://img.shields.io/github/stars/rohandkn/skribble2vid.svg?style=social&label=Star)](https://github.com/rohandkn/skribble2vid) [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://docs.google.com/forms/d/e/1FAIpQLSd9EGien53IkxOlbPkUx9n9ANu2N_FG6ySJaZASr_A1VCdxUQ/viewform?usp=sf_link)
+
+
+
 ### 📦 BBox-Guided
 <a id="-bbox-guided"></a>
 
