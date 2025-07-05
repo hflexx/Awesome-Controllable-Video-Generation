@@ -941,7 +941,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 
 ### 🌊 Flow-Guided
 <a id="-flow-guided"></a>
-+ **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** (30 May 2024)  
++ **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 May 2024)  
    <details><summary>[ECCV 2024] Muyao Niu, Xiaodong Cun, et al.</summary>  
         Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng </details>  
 
@@ -959,7 +959,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsaishien-chen.github.io/MCDiff/)
 
-+ **I2VControl: Disentangled and Unified Video Motion Synthesis Control** (26 Nov 2024)  
++ **I2VControl: Disentangled and Unified Video Motion Synthesis Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(26 Nov 2024)  
    <details><summary>Wanquan Feng, Tianhao Qi, et al.</summary>  
         Wanquan Feng, Tianhao Qi, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He </details>  
 
