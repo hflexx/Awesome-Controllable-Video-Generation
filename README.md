@@ -150,7 +150,7 @@ Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
 [![Code](https://img.shields.io/github/stars/fudan-generative-vision/champ.svg?style=social&label=Star)](https://github.com/fudan-generative-vision/champ.git)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://fudan-generative-vision.github.io/champ/#/)
 
-+ **MoonShot: Towards Controllable Video Generation and Editing with Multimodal Conditions** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Jan 2024)<details><summary>David Junhao Zhang, Dongxu Li, Hung Le, et al.</summary>
++ **MoonShot: Towards Controllable Video Generation and Editing with Multimodal Conditions** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Jan 2024)<details><summary>David Junhao Zhang, Dongxu Li, Hung Le, et al.</summary>
       Mike Zheng Shou, Caiming Xiong, Doyen Sahoo</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01827)
 [![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star)](https://github.com/salesforce/LAVIS.git)
@@ -417,7 +417,7 @@ Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
 
 + **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos** (25 Dec 2023)<details><summary>[CVPR 2024] Xiang Wang, Shiwei Zhang, Hangjie Yuan, et al.</summary>
 Zhiwu Qing, Biao Gong, Yingya Zhang, Yujun Shen, Changxin Gao, Nong Sang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05845)
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15770)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tf-t2v.github.io/)
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Star)](https://github.com/ali-vilab/VGen)
 
