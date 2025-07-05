@@ -122,6 +122,12 @@
          Sangwon Jang, Taekyung Ki, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang</details>  
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07177)
+
++ **OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding** (15 Apr 2025)<details><summary>Dianbing Xi, Jiepeng Wang, Yuanzhi Liang, et al.</summary>
+Xi Qiu, Yuchi Huo, Rui Wang, Chi Zhang, Xuelong Li</details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.10825)
+[![Code](https://img.shields.io/github/stars/Tele-AI/OmniVDiff.svg?style=social&label=Star)](https://github.com/Tele-AI/OmniVDiff.git)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tele-ai.github.io/OmniVDiff/)
   
 + **SketchVideo: Sketch-based Video Generation and Editing** (30 Mar 2025)
    <details><summary>Feng-Lin Liu, Hongbo Fu, Xintao Wang, et al.</summary>  
@@ -147,6 +153,7 @@
   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://hehao13.github.io/projects-CameraCtrl/)
   [![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Star)](https://github.com/hehao13/CameraCtrl)
   [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://huggingface.co/spaces/hehao13/CameraCtrl-svd)
+
 
 
 + **VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control** (17 Feb 2025)<details><summary>Lifan Jiang, Shuang Chen, Boxi Wu, et al.</summary>
