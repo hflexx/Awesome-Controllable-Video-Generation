@@ -421,12 +421,49 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 ### 🧑 Person-Guided
 <a id="-person-guided"></a>
 
-* **SkyReels-A2: Compose Anything in Video Diffusion Transformers** (3 Apr 2025)
+* **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (23 May 2025)
+   <details><summary>Junhao Chen, Mingjin Chen, Jianjin Xu, et al.</summary>  
+         Junhao Chen, Mingjin Chen, Jianjin Xu, Xiang Li, Junting Dong, Mingze Sun, Puhua Jiang, Hongxiang Li, Yuhang Yang, Hao Zhao, Xiaoxiao Long, Ruqi Huang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.18078)
+
+
++ **MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(30 May 2025)
+   <details><summary>Yanbo Ding, Xirui Hu, Zhizhi Guo, et al.</summary>  
+         Yanbo Ding, Xirui Hu, Zhizhi Guo, Chi Zhang, Yali Wang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.10238)
+   [![Code](https://img.shields.io/github/stars/DINGYANB/MTVCrafter.svg?style=social&label=Star)](https://github.com/DINGYANB/MTVCrafter)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://dingyanb.github.io/MTVCtafter/)
+
+
+* **SkyReels-A2: Compose Anything in Video Diffusion Transformers**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Apr 2025)
 
   <details><summary>Zhengcong Fei, Debang Li, Di Qiu, et al.</summary>  
        Zhengcong Fei, Debang Li, Di Qiu, Jiahua Wang, Yikun Dou, Rui Wang, Jingtao Xu, Mingyuan Fan, Guibin Chen, Yang Li, Yahui Zhou</details>  
        
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03730)  [![Code](https://img.shields.io/github/stars/shiyi-zh0408/FlexiAct.svg?style=social&label=Star)](https://github.com/shiyi-zh0408/FlexiAct)   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)
+
+
++ **AnimateAnywhere: Rouse the Background in Human Image Animation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (28 Apr 2025)
+   <details><summary>Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, et al.</summary>  
+         Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, Xianhui Lin, Peiran Ren, Xiaoming Li, Ming Liu, Wangmeng Zuo</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19834)
+
+
++ **Concat-ID: Towards Universal Identity-Preserving Video Synthesis**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (19 Apr 2025)
+   <details><summary>Yong Zhong, Zhuoyi Yang, Jiayan Teng, et al.</summary>  
+         Yong Zhong, Zhuoyi Yang, Jiayan Teng, Xiaotao Gu, Chongxuan Li</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.14151)
+   [![Code](https://img.shields.io/github/stars/ML-GSAI/Concat-ID.svg?style=social&label=Star)](https://github.com/ML-GSAI/Concat-ID)
+
+
+
+
+
+
 
 * **PERSONALVIDEO: High ID-Fidelity Video Customization with Static Images** (16 Mar 2025)
 
@@ -435,33 +472,17 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
          
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17048)
 
-* **DreamRelation: Relation-Centric Video Customization** (10 Mar 2025)
 
-  <details><summary>Yujie Wei, Shiwei Zhang, Hangjie Yuan, et al.</summary>  
-         Yujie Wei, Shiwei Zhang, Hangjie Yuan, Biao Gong, Longxiang Tang, Xiang Wang, Haonan Qiu, Hengjia Li, Shuai Tan, Yingya Zhang, Hongming Shan</details>  
-         
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06033)
 
-* **Get In Video: Add Anything You Want to the Video** (8 Mar 2025)
 
-  <details><summary>Shaobin Zhuang, Zhipeng Huang, Binxin Yang, et al.</summary>  
-         Shaobin Zhuang, Zhipeng Huang, Binxin Yang, Ying Zhang, Fangyikang Wang, Canmiao Fu, Chong Sun, Zheng-Jun Zha, Chen Li, Yali Wang</details>  
-         
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.06268)
 
-* **Phantom: Subject-consistent video generation via cross-modal alignment** (16 Feb 2025)
-
-  <details><summary>Lijie Liu, Tianxiang Ma, Bingchuan Li, et al.</summary>  
-         Lijie Liu, Tianxiang Ma, Bingchuan Li, Zhuowei Chen, Jiawei Liu, Qian He, Xinglong Wu</details>  
-         
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11079)  [![Code](https://img.shields.io/github/stars/Phantom-video/Phantom.svg?style=social&label=Star)](https://github.com/Phantom-video/Phantom)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://phantom-video.github.io/Phantom/)
-
-* **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** (12 Feb 2025)
+* **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(12 Feb 2025)
 
   <details><summary>Zhao Wang, Hao Wen, Lingting Zhu, et al.</summary>  
          Zhao Wang, Hao Wen, Lingting Zhu, Chenming Shang, Yujiu Yang, Qi Dou</details>  
          
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08189)  [![Code](https://img.shields.io/github/stars/AnyCharV/AnyCharV.svg?style=social&label=Star)](https://github.com/AnyCharV/AnyCharV)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://anycharv.github.io/)
+
 
 * **Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** (4 Feb 2025)
 
@@ -470,6 +491,10 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
          
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07802)
 
+
+
+
+
 * **EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion** (23 Jan 2025)
 
   <details><summary>Jiangchuan Wei, Shiyue Yan, Wenfeng Lin, et al.</summary>  
@@ -477,34 +502,51 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
          
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.13452)    [![Code](https://img.shields.io/github/stars/bytedance/EchoVideo.svg?style=social&label=Star)](https://github.com/bytedance/EchoVideo)
 
-* **Multi-subject Open-set Personalization in Video Generation** (10 Jan 2025)
 
-  <details><summary>Tsai-Shien Chen, Aliaksandr Siarohin, Willi Menapace, et al.</summary>  
-         Tsai-Shien Chen, Aliaksandr Siarohin, Willi Menapace, Yuwei Fang, Kwot Sin Lee, Ivan Skorokhodov, Kfir Aberman, Jun-Yan Zhu, Ming-Hsuan Yang, Sergey Tulyakov</details>  
-         
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.06187)  [![Code](https://img.shields.io/github/stars/snap-research/MSRVTT-Personalization.svg?style=social&label=Star)](https://github.com/snap-research/MSRVTT-Personalization)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/open-set-video-personalization/)
 
-* **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** (8 Jan 2025)
 
-  <details><summary>Yuzhou Huang, Ziyang Yuan, Quande Liu, et al.</summary>  
-         Yuzhou Huang, Ziyang Yuan, Quande Liu, Qiulin Wang, Xintao Wang, Ruimao Zhang, Pengfei Wan, Di Zhang, Kun Gai</details>  
-         
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.04698)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://yuzhou914.github.io/ConceptMaster/)
++ **VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention** (03 Dec 2024)<details><summary>Mingzhe Zheng, Yongqi Xu, Haojian Huang, et al.</summary>
+        Mingzhe Zheng, Yongqi Xu, Haojian Huang, Xuran Ma, Yexin Liu, Wenjie Shu, Yatian Pang, Feilong Tang, Qifeng Chen, Harry Yang, Ser-Nam Lim</details>
+      [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02259)
+      [![Code](https://img.shields.io/github/stars/DuNGEOnmassster/VideoGen-of-Thought.svg?style=social&label=Star)](https://github.com/DuNGEOnmassster/VideoGen-of-Thought)
+      [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://cheliosoops.github.io/VGoT/)
 
-* **VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models** (27 Dec 2024)
 
-  <details><summary>Tao Wu, Yong Zhang, Xiaodong Cun, et al.</summary>  
-         Tao Wu, Yong Zhang, Xiaodong Cun, Zhongang Qi, Junfu Pu, Huanzhang Dou, Guangcong Zheng, Ying Shan, Xi Li</details>  
-         
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19645)  [![Code](https://img.shields.io/github/stars/WuTao-CS/VideoMaker.svg?style=social&label=Star)](https://github.com/WuTao-CS/VideoMaker)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wutao-cs.github.io/VideoMaker/)
++ **Identity-Preserving Text-to-Video Generation by Frequency Decomposition** (25 Nov 2024)
+  <details><summary> Shenghai Yuan, Jinfa Huang, et al.</summary>
+        Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan</details>
 
-* **Customcrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** (27 Dec 2024)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17440)
+   [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/ConsisID.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/ConsisID)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pku-yuangroup.github.io/ConsisID/)
 
-  <details><summary>Tao Wu, Yong Zhang, Xintao Wang, et al.</summary>  
-         Tao Wu, Yong Zhang, Xintao Wang, Xianpan Zhou, Guangcong Zheng, Zhongang Qi, Ying Shan, Xi Li</details>  
-         
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.13239)  [![Code](https://img.shields.io/github/stars/WuTao-CS/CustomCrafter.svg?style=social&label=Star)](https://github.com/WuTao-CS/CustomCrafter)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://customcrafter.github.io/)
 
++ **MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (24 Sep 2024)<details><summary>Yifang Men, Yuan Yao, Miaomiao Cui, et al.</summary>
+        Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</details>
+        [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16160)
+        [![Code](https://img.shields.io/github/stars/menyifang/MIMO.svg?style=social&label=Star)](https://github.com/menyifang/MIMO)
+        [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://menyifang.github.io/projects/MIMO/index.html)
+
+
+* **ID-Animator: Zero-Shot Identity-Preserving Human Video Generation** (25 Jun 2024)  
+   <details><summary>Xuanhua He, Quande Liu, et al.</summary>  
+         Xuanhua He, Quande Liu, Shengju Qian, Xin Wang, Tao Hu, Ke Cao, Keyu Yan, Jie Zhang</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.15275) 
+   [![GitHub](https://img.shields.io/github/stars/RongPiKing/CustomTTT.svg?style=social&label=Star)](https://github.com/ID-Animator/ID-Animator)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://id-animator.github.io)
+
+
+* **Magic-Me: Identity-Specific Video Customized Diffusion** (14 Feb 2024)<details><summary>Ze Ma, Daquan Zhou, Chun-Hsiao Yeh, et al.</summary>
+        Ze Ma, Daquan Zhou, Chun-Hsiao Yeh, Xue-She Wang, Xiuyu Li, Huanrui Yang, Zhen Dong, Kurt Keutzer, Jiashi Feng</details>
+        [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.09368)
+        [![Code](https://img.shields.io/github/stars/Zhen-Dong/Magic-Me.svg?style=social&label=Star)](https://github.com/Zhen-Dong/Magic-Me)
+
+
+* **Vlogger: Make Your Dream A Vlog** (17 Jan 2024)<details><summary>Shaobin Zhuang, Kunchang Li, Xinyuan Chen, et al.</summary>
+        Shaobin Zhuang, Kunchang Li, Xinyuan Chen, Yaohui Wang, Ziwei Liu, Yu Qiao, Yali Wang</details>
+        [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.09414)
+        [![Code](https://img.shields.io/github/stars/zhuangshaobin/Vlogger.svg?style=social&label=Star)](https://github.com/zhuangshaobin/Vlogger)
 
 
 
