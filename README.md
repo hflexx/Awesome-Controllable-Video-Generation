@@ -552,6 +552,13 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 
 ### 🧑‍🤝‍🧑 Subject-Guided
 <a id="-subject-guided"></a>
+
++ **DualReal: Joint Training for Lossless Identity-Motion Fusion in Video Customization**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (4 May 2025)
+   <details><summary>Wenchuan Wang, Mengqi Huang, Yijing Tu, et al.</summary>  
+         Wenchuan Wang, Mengqi Huang, Yijing Tu, Zhendong Mao</details>  
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.02192)
+  
 + **Concat-ID: Towards Universal Identity-Preserving Video Synthesis**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (19 Apr 2025)
    <details><summary>Yong Zhong, Zhuoyi Yang, Jiayan Teng, et al.</summary>  
          Yong Zhong, Zhuoyi Yang, Jiayan Teng, Xiaotao Gu, Chongxuan Li</details>  
@@ -586,6 +593,9 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
          Lijie Liu, Tianxiang Ma, Bingchuan Li, Zhuowei Chen, Jiawei Liu, Qian He, Xinglong Wu</details>  
          
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.11079)  [![Code](https://img.shields.io/github/stars/Phantom-video/Phantom.svg?style=social&label=Star)](https://github.com/Phantom-video/Phantom)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://phantom-video.github.io/Phantom/)
+
+ 
+
 
 * **Multi-subject Open-set Personalization in Video Generation** (10 Jan 2025)
 
