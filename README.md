@@ -114,6 +114,12 @@
 
 + **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** (3 Apr 2023) <details><summary>[AAAI 2024] Yue Ma, Yingqing He, et al.</summary> Yue Ma, Yingqing He, Xiaodong Cun, Xintao Wang, Siran Chen, Ying Shan, Xiu Li, Qifeng Chen</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186) [![Code](https://img.shields.io/github/stars/mayuelala/FollowYourPose.svg?style=social&label=Star)](https://github.com/mayuelala/FollowYourPose) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://follow-your-pose.github.io/)
  
+### 📏 Depth-Guided
+<a id="-depth-guided"></a>
+
+### 🗺️ Landmark-Guided
+<a id="-landmark-guided"></a>
+
 ### ✏️ Sketch-Guided
 <a id="-sketch-guided"></a>
 
