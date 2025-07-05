@@ -1063,20 +1063,19 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22980)
 
-- **MotionPro: A Precise Motion Controller for Image-to-Video Generation** (26 May 2025)  
-  <details><summary>Zhongwei Zhang, Fuchen Long, Zhaofan Qiu, et al.</summary>Zhongwei Zhang, Fuchen Long, Zhaofan Qiu, Yingwei Pan, Wu Liu, Ting Yao, Tao Mei</details>  
-  
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20287)    [![Code](https://img.shields.io/github/stars/HiDream-ai/MotionPro.svg?style=social&label=Star)](https://github.com/HiDream-ai/MotionPro)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zhw-zhang.github.io/MotionPro-page/)
 
-- **AnimateAnywhere: Rouse the Background in Human Image Animation** (28 Apr 2025)  
+
+- **AnimateAnywhere: Rouse the Background in Human Image Animation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(28 Apr 2025)  
   <details><summary>Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, et al.</summary>Xiaoyu Liu, Mingshuai Yao, Yabo Zhang, Xianhui Lin, Peiran Ren, Xiaoming Li, Ming Liu, Wang</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19834)
 
-- **Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation** (21 Apr 2025)  
+- **Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (21 Apr 2025)  
   <details><summary>Chenjie Cao, Jingkai Zhou, Shikai Li, et al.</summary>Chenjie Cao, Jingkai Zhou, Shikai Li, Jingyun Liang, Chaohui Yu, Fan Wang, Xiangyang Xue, Yanwei Fu</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.14899)
+
+ 
 
 - **VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation** (2 Apr 2025)  
   <details><summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, et al.</summary>Sixiao Zheng, Zimian Peng, Yanpeng Zhou, Yi Zhu, Hang Xu, Xiangru Huang, Yanwei Fu</details>  
@@ -1108,7 +1107,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.12781)    [![Code](https://img.shields.io/github/stars/snap-research/vd3d.svg?style=social&label=Star)](https://github.com/snap-research/vd3d/blob/main/index.html)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/vd3d/)
 
-- **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation** (10 Mar 2025)  
+- **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (10 Mar 2025)  
   <details><summary>Yingjie Chen, Yifang Men, Yuan Yao, et al.</summary>Yingjie Chen, Yifang Men, Yuan Yao, Miaomiao Cui, Liefeng Bo</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.05020)    [![Code](https://img.shields.io/github/stars/chen-yingjie/Perception-as-Control.svg?style=social&label=Star)](https://github.com/chen-yingjie/Perception-as-Control)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
@@ -1118,12 +1117,12 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.19868)    [![Code](https://img.shields.io/github/stars/WesLee88524/C-Drag-Official-Repo.svg?style=social&label=Star)](https://github.com/WesLee88524/C-Drag-Official-Repo)
 
-- **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation** (25 Feb 2025)  
+- **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (25 Feb 2025)  
   <details><summary>Koichi Namekata, Sherwin Bahmani, Ziyi Wu, et al.</summary>Yash Kant, Igor Gilitschenski, David B. Lindell</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2411.04989)    [![Code](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Star)](https://github.com/Kmcode1/SG-I2V)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://kmcode1.github.io/Projects/SG-I2V/)
 
-- **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation** (6 Feb 2025)  
+- **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (6 Feb 2025)  
   <details><summary>Jinbo Xing, Long Mai, Cusuh Ham, et al.</summary>Jinbo Xing, Long Mai, Cusuh Ham, Jiahui Huang, Aniruddha Mahapatra, Chi-Wing Fu, Tien-Tsin Wong, Feng Liu</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2502.04299v1)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://motion-canvas25.github.io/)
@@ -1158,7 +1157,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2412.02700v1)    [![Code](https://img.shields.io/github/stars/showlab/DragAnything.svg?style=social&label=Star)](https://github.com/showlab/DragAnything)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://motion-prompting.github.io/)
 
-- **I2VControl: Disentangled and Unified Video Motion Synthesis Control** (30 Nov 2024)  
+- **I2VControl: Disentangled and Unified Video Motion Synthesis Control**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (30 Nov 2024)  
   <details><summary>Wanquan Feng, Tianhao Qi, Jiawei Liu, et al.</summary>Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17765)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wanquanf.github.io/I2VControl)
@@ -1168,7 +1167,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16804)   [![Code](https://img.shields.io/github/stars/insait-institute/InTraGen.svg?style=social&label=Star)](https://github.com/insait-institute/InTraGen)
 
-- **MotionBooth: Motion-Aware Customized Text-to-Video Generation** (29 Oct 2024)  
+- **MotionBooth: Motion-Aware Customized Text-to-Video Generation**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (29 Oct 2024)  
   <details><summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, et al.</summary>Jianzong Wu, Xiangtai Li, Yanhong Zeng, Jiangning Zhang, Qianyu Zhou, Yining Li, Yunhai Tong, Kai Chen</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.17758)    [![Code](https://img.shields.io/github/stars/jianzongwu/MotionBooth.svg?style=social&label=Star)](https://github.com/jianzongwu/MotionBooth)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://jianzongwu.github.io/projects/motionbooth/?ref=aiartweekly)
@@ -1178,12 +1177,13 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/ACM-b31b1b.svg)](https://arxiv.org/abs/2410.10751)    [![Code](https://img.shields.io/github/stars/yzhang2016/video-generation-survey.svg?style=social&label=Star)](https://github.com/yzhang2016/video-generation-survey/blob/main/video-generation.md)
 
-- **MotionCtrl: A Unified and Flexible Motion Controller for Video Generation** (16 Jul 2024)  
-  <details><summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, et al.</summary>Zhouxia Wang, Ziyang Yuan, Xintao Wang, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan</details>  
-  
-  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03641)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wzhouxiff.github.io/projects/MotionCtrl/)   [![Code](https://img.shields.io/github/stars/deepbrainai-research/float.svg?style=social&label=Star)](https://github.com/TencentARC/MotionCtrl)
 
-- **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** (11 Jul 2024)  
++ **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (17 Jul 2024)
+   <details><summary>Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, et al.</summary> Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162) [![Code](https://img.shields.io/github/stars/Yangzhangcst/Transformer-in-Computer-Vision.svg?style=social&label=Star)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision/blob/main/main/diffusion.md) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/vd3d/gallery.html)
+  
+- **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(11 Jul 2024)  
   <details><summary>Muyao Niu, Xiaodong Cun, Xintao Wang, et al.</summary>Yong Zhang, Ying Shan, Yinqiang Zheng</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20222)    [![Code](https://img.shields.io/github/stars/MyNiuuu/MOFA-Video.svg?style=social&label=Star)](https://github.com/MyNiuuu/MOFA-Video)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://myniuuu.github.io/MOFA_Video/)
@@ -1198,7 +1198,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.15339)    [![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Star)](https://github.com/liyaowei-stu/ImageConductor)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://liyaowei-stu.github.io/project/ImageConductor/)
 
-- **ReVideo: Remake a Video with Motion and Content** (22 May 2024)  
+- **ReVideo: Remake a Video with Motion and Content** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(22 May 2024)  
   <details><summary>Zuhao Liu, Aleksandar Yanev, Ahmad Mahmood, et al.</summary>Ivan Nikolov, Saman Motamed, Wei-Shi Zheng, Xi Wang, Luc Van Gool, Danda Pani Paudel</details>  
   
   [![Paper](https://img.shields.io/badge/NeurIPS-b31b1b.svg)](https://proceedings.neurips.cc)    [![Code](https://img.shields.io/github/stars/MC-E/ReVideo.svg?style=social&label=Star)](https://github.com/MC-E/ReVideo)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mc-e.github.io/project/ReVideo/)
@@ -1208,7 +1208,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.17414)    [![Code](https://img.shields.io/github/stars/CollaborativeVideoDiffusion/collaborativevideodiffusion.github.io.svg?style=social&label=Star)](https://github.com/CollaborativeVideoDiffusion/collaborativevideodiffusion.github.io/blob/main/index.html)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://collaborativevideodiffusion.github.io/)
 
-- **Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** (6 May 2024)  
+- **Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17)(6 May 2024)  
   <details><summary>Shiyuan Yang, Liang Hou, Haibin Huang, et al.</summary>Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, Di Zhang, Xiaodong Chen, Jing Liao</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162)    [![Code](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Star)](https://github.com/ysy31415/direct_a_video)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://direct-a-video.github.io/?ref=aiartweekly)
@@ -1233,7 +1233,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.07420)    [![Code](https://img.shields.io/github/stars/showlab/DragAnything.svg?style=social&label=Star)](https://github.com/showlab/DragAnything)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://weijiawu.github.io/draganything_page/)
 
-- **Boximator: Generating Rich and Controllable Motions for Video Synthesis** (2 Feb 2024)  
+- **Boximator: Generating Rich and Controllable Motions for Video Synthesis**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (2 Feb 2024)  
   <details><summary>Jiawei Wang, Yuchen Zhang, Jiaxin Zou, et al.</summary>Yan Zeng, Guoqiang Wei, Liping Yuan, Hang Li</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.01566)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://boximator.github.io/)
@@ -1316,7 +1316,7 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02048)    [![Code](https://img.shields.io/github/stars/Drexubery/ViewCrafter.svg?style=social&label=Star)](https://github.com/Drexubery/ViewCrafter)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://drexubery.github.io/ViewCrafter/)
 
-+ **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control** (17 Jul 2024)  
++ **VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (17 Jul 2024)  
   <details><summary>Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, et al.</summary> Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov</details>  
   
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.03162)    [![code](https://img.shields.io/github/stars/Yangzhangcst/Transformer-in-Computer-Vision.svg?style=social&label=Star)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision/blob/main/main/diffusion.md)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://snap-research.github.io/vd3d/gallery.html)
