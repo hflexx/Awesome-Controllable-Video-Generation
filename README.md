@@ -314,52 +314,108 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 ### 📦 BBox-Guided
 <a id="-bbox-guided"></a>
 
-+ **HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for   Autonomous Driving** (02 Dec 2024)<details><summary>Zehuan Wu, Jingcheng Ni, Xiaodong Wang, et al.</summary>
-Zehuan Wu, Jingcheng Ni, Xiaodong Wang, Yuxin Guo, Rui Chen, Lewei Lu, Jifeng Dai, Yuwen Xiong</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01407)
 
-+ **DriveScape: Towards High-Resolution Controllable Multi-View Driving   Video Generation** (09 Sep 2024)<details><summary>Wei Wu, Xi Guo, Weixuan Tang, et al.</summary>
-Wei Wu, Xi Guo, Weixuan Tang, Tingxuan Huang, Chiyu Wang, Dongyue Chen, Chenjing Ding</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05463)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
++ **HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (02 Dec 2024)
+   <details><summary>Zehuan Wu, Jingcheng Ni, Xiaodong Wang, et al.</summary>
 
-+ **DriveScape: Towards High-Resolution Controllable Multi-View Driving   Video Generation** (09 Sep 2024)<details><summary>Wei Wu, Xi Guo, Weixuan Tang, et al.</summary>
-Wei Wu, Xi Guo, Weixuan Tang, Tingxuan Huang, Chiyu Wang, Dongyue Chen, Chenjing Ding</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05463)
+   Zehuan Wu, Jingcheng Ni, Xiaodong Wang, Yuxin Guo, Rui Chen, Lewei Lu, Jifeng Dai, Yuwen Xiong</details>
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.01407)
 
-+ **DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View   Driving Scenes** (06 Sep 2024)<details><summary>Jianbiao Mei, Tao Hu, Xuemeng Yang, et al.</summary>
-Jianbiao Mei, Tao Hu, Xuemeng Yang, Licheng Wen, Yu Yang, Tiantian Wei, Yukai Ma, Min Dou, Botian Shi, Yong Liu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04003)
-[![Code](https://img.shields.io/github/stars/PJLab-ADG/DriveArena.svg?style=social&label=Star)](https://github.com/PJLab-ADG/DriveArena)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pjlab-adg.github.io/DriveArena/dreamforge/)
++ **Higher fidelity autonomous vehicle video generation with bounding-box controlled object motion** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (8 Dec 2024 )
+   <details><summary>Ge Ya Luo, Zhi Hao Luo, et al.</summary>
+   Ge Ya Luo, Zhi Hao Luo, Anthony Gosselin, Alexia Jolicoeur-Martineau, Christopher Pal</details>
 
-+ **DiVE: DiT-based Video Generation with Enhanced Control** (03 Sep 2024)<details><summary>Junpeng Jiang, Gangyi Hong, Lijun Zhou, et al.</summary>
-Junpeng Jiang, Gangyi Hong, Lijun Zhou, Enhui Ma, Hengtong Hu, Xia Zhou, Jie Xiang, Fan Liu, Kaicheng Yu, Haiyang Sun, Kun Zhan, Peng Jia, Miao Zhang</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01595)
-[![Code](https://img.shields.io/github/stars/LiAutoAD/DIVE.svg?style=social&label=Star)](https://github.com/LiAutoAD/DIVE)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://liautoad.github.io/DIVE/)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.05630) [![Code](https://img.shields.io/github/stars/oooolga/Ctrl-V.svg?style=social&label=Star)](https://github.com/oooolga/Ctrl-V)
 
-+ **Unleashing Generalization of End-to-End Autonomous Driving with   Controllable Long Video Generation** (3 Jun 2024)<details><summary>Enhui Ma, Lijun Zhou, Tao Tang, et al.</summary>
-Enhui Ma, Lijun Zhou, Tao Tang, Zhan Zhang, Dong Han, Junpeng Jiang, Kun Zhan, Peng Jia, Xianpeng Lang, Haiyang Sun, Di Lin, Kaicheng Yu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01349)
-[![Code](https://img.shields.io/github/stars/westlake-autolab/Delphi.svg?style=social&label=Star)](https://github.com/westlake-autolab/Delphi)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://westlake-autolab.github.io/delphi.github.io/)
++ **MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (21 Nov 2024)
+   <details><summary>Ruiyuan Gao, Kai Chen, Bo Xiao, et al.</summary>
+   Ruiyuan Gao, Kai Chen, Bo Xiao, Lanqing Hong, Zhenguo Li, Qiang Xu</details>
 
-+ **LLM-grounded Video Diffusion Models** (29 Sep 2023)<details><summary>Long Lian, Baifeng Shi, Adam Yala, et al.</summary>
-Long Lian, Baifeng Shi, Adam Yala, Trevor Darrell, Boyi Li</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
-[![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-video-diffusion.github.io)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13807)
+   [![Code](https://img.shields.io/github/stars/flymin/MagicDrive-V2.svg?style=social&label=Star)](https://github.com/flymin/MagicDrive-V2)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](http://gaoruiyuan.com/magicdrive-v2/)
 
-+ **DriveDreamer: Towards Real-world-driven World Models for Autonomous   Driving** (18 Sep 2023)<details><summary>Xiaofeng Wang, Zheng Zhu, Guan Huang, et al.</summary>
-Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiagang Zhu, Jiwen Lu</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.09777)
-[![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer)
-[![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://drivedreamer.github.io)
++ **DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (06 Sep 2024)
+   <details><summary>Jianbiao Mei, Tao Hu, Xuemeng Yang, et al.</summary>
+   Jianbiao Mei, Tao Hu, Xuemeng Yang, Licheng Wen, Yu Yang, Tiantian Wei, Yukai Ma, Min Dou, Botian Shi, Yong Liu</details>
 
-+ **Multi-object Video Generation from Single Frame Layouts** (06 May 2023)<details><summary>Yang Wu, Zhibin Liu, Hefeng Wu, et al.</summary>
-Yang Wu, Zhibin Liu, Hefeng Wu, Liang Lin</details>
-[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03983)
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04003)
+   [![Code](https://img.shields.io/github/stars/PJLab-ADG/DriveArena.svg?style=social&label=Star)](https://github.com/PJLab-ADG/DriveArena)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://pjlab-adg.github.io/DriveArena/dreamforge/)
+
++ **DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (09 Sep 2024)
+   <details><summary>Wei Wu, Xi Guo, Weixuan Tang, et al.</summary>
+   Wei Wu, Xi Guo, Weixuan Tang, Tingxuan Huang, Chiyu Wang, Dongyue Chen, Chenjing Ding</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05463)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
+
++ **DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (09 Sep 2024)
+   <details><summary>Wei Wu, Xi Guo, Weixuan Tang, et al.</summary>
+   Wei Wu, Xi Guo, Weixuan Tang, Tingxuan Huang, Chiyu Wang, Dongyue Chen, Chenjing Ding</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.05463)
+
++ **DiVE: DiT-based Video Generation with Enhanced Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (03 Sep 2024)
+   <details><summary>Junpeng Jiang, Gangyi Hong, Lijun Zhou, et al.</summary>
+   Junpeng Jiang, Gangyi Hong, Lijun Zhou, Enhui Ma, Hengtong Hu, Xia Zhou, Jie Xiang, Fan Liu, Kaicheng Yu, Haiyang Sun, Kun Zhan, Peng Jia, Miao Zhang</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.01595)
+   [![Code](https://img.shields.io/github/stars/LiAutoAD/DIVE.svg?style=social&label=Star)](https://github.com/LiAutoAD/DIVE)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://liautoad.github.io/DIVE/)
+
++ **Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (3 Jun 2024)
+   <details><summary>Enhui Ma, Lijun Zhou, Tao Tang, et al.</summary>
+   Enhui Ma, Lijun Zhou, Tao Tang, Zhan Zhang, Dong Han, Junpeng Jiang, Kun Zhan, Peng Jia, Xianpeng Lang, Haiyang Sun, Di Lin, Kaicheng Yu</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01349)
+   [![Code](https://img.shields.io/github/stars/westlake-autolab/Delphi.svg?style=social&label=Star)](https://github.com/westlake-autolab/Delphi)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://westlake-autolab.github.io/delphi.github.io/)
+
+- **Boximator: Generating Rich and Controllable Motions for Video Synthesis** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (2 Feb 2024)  
+   <details><summary>Jiawei Wang, Yuchen Zhang, Jiaxin Zou, et al.</summary>Yan Zeng, Guoqiang Wei, Liping Yuan, Hang Li</details> 
+
+   
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.01566)    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://boximator.github.io/)
+
++ **Panacea: Panoramic and Controllable Video Generation for Autonomous Driving** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (28 Nov 2023)
+   <details><summary>Yuqing Wen, Yucheng Zhao, Yingfei Liu, et al.</summary>
+   Yuqing Wen, Yucheng Zhao, Yingfei Liu, Fan Jia, Yanhui Wang, Chong Luo, Chi Zhang, Tiancai Wang, Xiaoyan Sun, Xiangyu Zhang</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16813)
+   [![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Star)](https://github.com/wenyuqing/panacea)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://panacea-ad.github.io)
+
++ **MagicDrive: Street View Generation with Diverse 3D Geometry Control** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (04 Oct 2023)
+   <details><summary>Ruiyuan Gao, Kai Chen, Enze Xie, et al.</summary>
+   Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing Hong, Zhenguo Li, Dit-Yan Yeung, Qiang Xu</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.02601)
+   [![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Star)](https://github.com/cure-lab/MagicDrive)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](http://gaoruiyuan.com/magicdrive/)
+
++ **DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (18 Sep 2023)
+   <details><summary>Xiaofeng Wang, Zheng Zhu, Guan Huang, et al.</summary>
+   Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiagang Zhu, Jiwen Lu</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.09777)
+   [![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://drivedreamer.github.io)
+
++ **LLM-grounded Video Diffusion Models**  (29 Sep 2023)
+   <details><summary>Long Lian, Baifeng Shi, Adam Yala, et al.</summary>
+   Long Lian, Baifeng Shi, Adam Yala, Trevor Darrell, Boyi Li</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17444)
+   [![Code](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedVideoDiffusion.svg?style=social&label=Star)](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)
+   [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://llm-grounded-video-diffusion.github.io)
+
++ **Multi-object Video Generation from Single Frame Layouts** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (06 May 2023)
+   <details><summary>Yang Wu, Zhibin Liu, Hefeng Wu, et al.</summary>
+   Yang Wu, Zhibin Liu, Hefeng Wu, Liang Lin</details>
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03983)
+
 ## 🧬 ID Control
 
 ### 🧑 Person-Guided
