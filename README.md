@@ -9,6 +9,7 @@
 
 </div>
 
+  
 # 🤗 Introduction
 
 
@@ -1947,6 +1948,9 @@ Liefeng Bo</details>
 
 ### 🎵 Sound-Guided
 <a id="-sound-guided"></a>
+
+
++ *MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (7 Mar 2025) <details><summary>Hongwei Yi, Tian Ye, Shitong Shao, Xuancheng Yang, et al.</summary> Hongwei Yi, Tian Ye, Shitong Shao, Xuancheng Yang, Jiantong Zhao, Hanzhong Guo, Terrance Wang, Qingyu Yin, Zeke Xie, Lei Zhu, Wei Li, Michael Lingelbach, Daquan Zhou</details> [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)]([https://arxiv.org/abs/2505.10238](https://arxiv.org/abs/2503.05978v1)) 
 
 + **MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls** ![M](https://github-colored-text-fn3z.vercel.app/api/index?text=[M]&color=008000&width=30&fontSize=17&height=17) (19 Dec 2024)<details><summary>[AAAI 2025] Yuxuan Bian, Ailing Zeng, Xuan Ju, et al.</summary>
 Yuxuan Bian, Ailing Zeng, Xuan Ju, Xian Liu, Zhaoyang Zhang, Wei Liu, Qiang Xu</details>
