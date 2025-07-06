@@ -448,7 +448,16 @@ Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li</details>
 
    [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05845) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sketchingthefuture.github.io/) [![Code](https://img.shields.io/github/stars/rohandkn/skribble2vid.svg?style=social&label=Star)](https://github.com/rohandkn/skribble2vid) [![Demo](https://img.shields.io/badge/Demo-EEAD0E)](https://docs.google.com/forms/d/e/1FAIpQLSd9EGien53IkxOlbPkUx9n9ANu2N_FG6ySJaZASr_A1VCdxUQ/viewform?usp=sf_link)
 
++ **SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches**  (1 Sep 2022)
+   <details><summary>Dagmar Lukka Loftsdóttir, Matthew Guzdial</summary></details> 
 
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.00185) 
+   [![Code](https://img.shields.io/github/stars/ribombee/SketchBetween.svg?style=social&label=Star)](https://github.com/ribombee/SketchBetween)
+
++ **Sketch Me A Video**  (10 Oct 2021)
+   <details><summary>Haichao Zhang, Gang Yu, Tao Chen, et al.</summary> Haichao Zhang, Gang Yu, Tao Chen, Guozhong Luo</details> 
+
+   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04710) 
 
 ### 📦 BBox-Guided
 <a id="-bbox-guided"></a>
@@ -1160,6 +1169,18 @@ Yanhao Zhang, Yuxiao Wang, Liyuan Ma, Qi Liu, Jiebo Luo, Guo-Jun Qi</details></d
 + **Make It Move: Controllable Image-to-Video Generation With Text Descriptions** (31 Mar 2022)<details><summary>[CVPR 2022] Yaosi Hu, Chong Luo, Zhenzhong Chen</details></details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.html)
 [![Code](https://img.shields.io/github/stars/Youncy-Hu/MAGE.svg?style=social&label=Star)](https://github.com/Youncy-Hu/MAGE)
+
++ **VideoGPT: Video Generation using VQ-VAE and Transformers** (14 Sep 2021)<details><summary>Wilson Yan, Yunzhi Zhang, Pieter Abbeel, et al.</summary>Wilson Yan, Yunzhi Zhang, Pieter Abbeel, Aravind Srinivas</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_WACV_2020/html/WANG_ImaGINator_Conditional_Spatio-Temporal_GAN_for_Video_Generation_WACV_2020_paper.html)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wilsonyan.com/videogpt/index.html)
+[![Code](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/wilson1yan/VideoGPT)
+
+
++ **ImaGINator: Conditional Spatio-Temporal GAN for Video Generation** (2020)<details><summary>[WACV 2020] Yaohui Wang, Piotr Bilinski, Francois Bremond, et al.</summary>Yaohui Wang, Piotr Bilinski, Francois Bremond, Antitza Dantcheva</details></details>
+[![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_WACV_2020/html/WANG_ImaGINator_Conditional_Spatio-Temporal_GAN_for_Video_Generation_WACV_2020_paper.html)
+[![Code](https://img.shields.io/github/stars/wyhsirius/ImaGINator.svg?style=social&label=Star)](https://github.com/wyhsirius/ImaGINator)
+
+
 
 
 ## ⏳ Temporal Control
@@ -1900,6 +1921,28 @@ Liefeng Bo</details>
   [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.01841)
    [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://humanaigc.github.io/vivid-talk/)
   [![Code](https://img.shields.io/github/stars/HumanAIGC/VividTalk.svg?style=social&label=Star)](https://github.com/HumanAIGC/VividTalk)
+
+
++ **Audio-Driven Co-Speech Gesture Video Generation** (5 Dec 2022)<details><summary>[NeurIPS 2022] Xian Liu, Qianyi Wu, Hang Zhou, et al.</summary>Xian Liu, Qianyi Wu, Hang Zhou, Yuanqi Du, Wayne Wu, Dahua Lin, Ziwei Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.02350)
+   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://alvinliu0.github.io/projects/ANGIE)
+  [![Code](https://img.shields.io/github/stars/alvinliu0/ANGIE.svg?style=social&label=Star)](https://github.com/alvinliu0/ANGIE)
+
++ **A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild**  (23 Aug 2020)<details><summary>K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, et al.</summary>[ACM MM 2020] K R Prajwal, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2008.10010)
+  [![Code](https://img.shields.io/github/stars/Rudrabha/Wav2Lip.svg?style=social&label=Star)](https://github.com/Rudrabha/Wav2Lip)
+
++ **Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose**  (5 Mar 2020)<details><summary>[TMM 2022] Ran Yi, Zipeng Ye, Juyong Zhang, et al.</summary>Ran Yi, Zipeng Ye, Juyong Zhang, Hujun Bao, Yong-Jin Liu</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2002.10137)
+  [![Code](https://img.shields.io/github/stars/yiranran/Audio-driven-TalkingFace-HeadPose.svg?style=social&label=Star)](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)
+
++ **Robust One Shot Audio to Video Generation** (2020)<details><summary>[CVPRW 2020] Neeraj Kumar, Srishti Goel, Ankur Narang, et al.</summary>Neeraj Kumar, Srishti Goel, Ankur Narang, Mujtaba Hasan</details>
+
+  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content_CVPRW_2020/html/w45/Kumar_Robust_One_Shot_Audio_to_Video_Generation_CVPRW_2020_paper.html)
+
 
 
 ### 🎵 Sound-Guided
