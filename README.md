@@ -40,6 +40,12 @@
     * [🗺️ BEV-Guided](#-bev-guided)
   * [🌀 Universal Control](#-universal-control)
 
+
+# 💘 Tips
+- **✅ Paper searching via catatogue**: directly clicking the content of the catatogue to select the area of your research and browse related papers.
+- **✅ Paper searching via author name**: Free feel to search papers of a specific author via `ctrl + F` and then type the author name. The dropdown list of authors will automatically expand when searching.
+
+
 ## 🌐 Structure Control
 
 ### 🕺 Pose-Guided
